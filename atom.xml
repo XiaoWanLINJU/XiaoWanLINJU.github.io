@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaowanlinlp.com/"/>
-  <updated>2017-03-14T09:24:44.607Z</updated>
+  <updated>2017-03-14T10:10:50.785Z</updated>
   <id>http://xiaowanlinlp.com/</id>
   
   <author>
@@ -14,6 +14,135 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>申请美国cs的NLP方向Ph.D.</title>
+    <link href="http://xiaowanlinlp.com/2017/03/14/%E7%94%B3%E8%AF%B7%E7%BE%8E%E5%9B%BDcs%E7%9A%84NLP%E6%96%B9%E5%90%91Ph-D/"/>
+    <id>http://xiaowanlinlp.com/2017/03/14/申请美国cs的NLP方向Ph-D/</id>
+    <published>2017-03-14T10:10:13.000Z</published>
+    <updated>2017-03-14T10:10:50.785Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-背景介绍"><a href="#1-背景介绍" class="headerlink" title="1. 背景介绍"></a>1. 背景介绍</h2><p>关于我里面有cv，就是我申请用的cv。网上关于申请应该各种攻略，我就不说了。我想分享的是我准备过程中和自然语言处理（nlp）相关方向的一些资料。我定位很明确，top20是抽奖，主申top50左右的，所以大牛学校大牛老师我也忽略了。</p>
+<h2 id="2-相关领域的学校和老师"><a href="#2-相关领域的学校和老师" class="headerlink" title="2. 相关领域的学校和老师"></a>2. 相关领域的学校和老师</h2><table>
+<thead>
+<tr>
+<th>专排</th>
+<th>宗派</th>
+<th>学校</th>
+<th>老师</th>
+<th>注意点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td>47</td>
+<td>University of Wisconsin—Madison</td>
+<td><a href="https://www.cs.wisc.edu/people/jerryzhu" target="_blank" rel="external">https://www.cs.wisc.edu/people/jerryzhu</a></td>
+<td>工科较强，但貌似要提前联系导师。地理位置不好(对于CS)，费用高，冷</td>
+</tr>
+<tr>
+<td>20</td>
+<td>17</td>
+<td>RICE（据说对南大比较友好）</td>
+<td><a href="http://www.cs.rice.edu/~devika/" target="_blank" rel="external">http://www.cs.rice.edu/~devika/</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td>76</td>
+<td>University of Massachusetts—Amherst</td>
+<td><a href="http://brenocon.com/" target="_blank" rel="external">http://brenocon.com/</a></td>
+<td>似乎文书要特别注意，强调自己的方向AI｜</td>
+</tr>
+<tr>
+<td>28</td>
+<td>12</td>
+<td>Johns Hopkins University</td>
+<td>philipp koehn</td>
+</tr>
+<tr>
+<td>34</td>
+<td>54</td>
+<td>Ohio State University</td>
+<td><a href="https://cocoxu.github.io/" target="_blank" rel="external">https://cocoxu.github.io/</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td>97</td>
+<td>CU-Boulder</td>
+<td><a href="http://www.umiacs.umd.edu/~jbg/static/faq.html" target="_blank" rel="external">http://www.umiacs.umd.edu/~jbg/static/faq.html</a> </td>
+</tr>
+<tr>
+<td>40</td>
+<td>110</td>
+<td>Utah</td>
+<td><a href="http://www.cs.utah.edu/research/areas/nlp/" target="_blank" rel="external">http://www.cs.utah.edu/research/areas/nlp/</a></td>
+</tr>
+<tr>
+<td>42</td>
+<td>52</td>
+<td>rpi</td>
+<td><a href="http://nlp.cs.rpi.edu/hengji.html" target="_blank" rel="external">http://nlp.cs.rpi.edu/hengji.html</a></td>
+<td>申请的时候要提到这个老师，让她申你的材料，非常好的老师</td>
+</tr>
+<tr>
+<td>44</td>
+<td>28</td>
+<td>uci</td>
+<td><a href="http://cml.ics.uci.edu/sponsors-funding/" target="_blank" rel="external">http://cml.ics.uci.edu/sponsors-funding/</a></td>
+</tr>
+<tr>
+<td>47</td>
+<td>65</td>
+<td>TAMU(早申请)</td>
+<td><a href="https://engineering.tamu.edu/cse/people/huang-ruihong" target="_blank" rel="external">https://engineering.tamu.edu/cse/people/huang-ruihong</a></td>
+</tr>
+<tr>
+<td>52</td>
+<td>33</td>
+<td>rochester</td>
+<td><a href="https://www.cs.rochester.edu/~gildea/mt/" target="_blank" rel="external">https://www.cs.rochester.edu/~gildea/mt/</a></td>
+</tr>
+<tr>
+<td>52</td>
+<td>62</td>
+<td>Pittsburg（TOEFL单项&gt; 22）</td>
+<td><a href="http://people.cs.pitt.edu/~litman/" target="_blank" rel="external">http://people.cs.pitt.edu/~litman/</a></td>
+</tr>
+<tr>
+<td>56</td>
+<td>109</td>
+<td>UCSC</td>
+<td><a href="https://nlds.soe.ucsc.edu/people" target="_blank" rel="external">https://nlds.soe.ucsc.edu/people</a></td>
+</tr>
+<tr>
+<td>58</td>
+<td>140</td>
+<td>UT Dallas</td>
+<td><a href="http://crss.utdallas.edu/" target="_blank" rel="external">http://crss.utdallas.edu/</a></td>
+<td><a href="http://www.hlt.utdallas.edu/~vince/" target="_blank" rel="external">http://www.hlt.utdallas.edu/~vince/</a></td>
+</tr>
+<tr>
+<td>61</td>
+<td>56</td>
+<td>neu</td>
+</tr>
+</tbody>
+</table>
+<p>还有一些活跃于微博的老师们，挺多的，可以关注一下。</p>
+<h2 id="3-后记"><a href="#3-后记" class="headerlink" title="3. 后记"></a>3. 后记</h2><p>加油吧，申请只是你人生的一部分。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;1-背景介绍&quot;&gt;&lt;a href=&quot;#1-背景介绍&quot; class=&quot;headerlink&quot; title=&quot;1. 背景介绍&quot;&gt;&lt;/a&gt;1. 背景介绍&lt;/h2&gt;&lt;p&gt;关于我里面有cv，就是我申请用的cv。网上关于申请应该各种攻略，我就不说了。我想分享的是我准备过程中和自
+    
+    </summary>
+    
+    
+      <category term="nlp cs phd" scheme="http://xiaowanlinlp.com/tags/nlp-cs-phd/"/>
+    
+  </entry>
   
   <entry>
     <title>Philip Guo博客介绍</title>
