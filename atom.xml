@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaowanlinlp.com/"/>
-  <updated>2017-03-14T10:10:50.785Z</updated>
+  <updated>2017-08-20T22:35:50.670Z</updated>
   <id>http://xiaowanlinlp.com/</id>
   
   <author>
@@ -16,11 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>firstweek</title>
+    <link href="http://xiaowanlinlp.com/2017/08/20/firstweek/"/>
+    <id>http://xiaowanlinlp.com/2017/08/20/firstweek/</id>
+    <published>2017-08-20T22:35:50.000Z</published>
+    <updated>2017-08-20T22:35:50.670Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>申请美国cs的NLP方向Ph.D.</title>
     <link href="http://xiaowanlinlp.com/2017/03/14/%E7%94%B3%E8%AF%B7%E7%BE%8E%E5%9B%BDcs%E7%9A%84NLP%E6%96%B9%E5%90%91Ph-D/"/>
     <id>http://xiaowanlinlp.com/2017/03/14/申请美国cs的NLP方向Ph-D/</id>
-    <published>2017-03-14T10:10:13.000Z</published>
-    <updated>2017-03-14T10:10:50.785Z</updated>
+    <published>2017-03-15T00:10:13.000Z</published>
+    <updated>2017-03-14T10:10:52.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-背景介绍"><a href="#1-背景介绍" class="headerlink" title="1. 背景介绍"></a>1. 背景介绍</h2><p>关于我里面有cv，就是我申请用的cv。网上关于申请应该各种攻略，我就不说了。我想分享的是我准备过程中和自然语言处理（nlp）相关方向的一些资料。我定位很明确，top20是抽奖，主申top50左右的，所以大牛学校大牛老师我也忽略了。</p>
 <h2 id="2-相关领域的学校和老师"><a href="#2-相关领域的学校和老师" class="headerlink" title="2. 相关领域的学校和老师"></a>2. 相关领域的学校和老师</h2><table>
@@ -148,8 +162,8 @@
     <title>Philip Guo博客介绍</title>
     <link href="http://xiaowanlinlp.com/2017/03/14/pgintro/"/>
     <id>http://xiaowanlinlp.com/2017/03/14/pgintro/</id>
-    <published>2017-03-14T09:00:23.000Z</published>
-    <updated>2017-03-14T09:24:44.607Z</updated>
+    <published>2017-03-14T23:00:23.000Z</published>
+    <updated>2017-03-14T09:24:46.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1. 目的"></a>1. 目的</h2><p>我在这个博客上花了很长时间，阅读，思考，现在想做个总结，同时分享给其他人。博主现在在一所很好的学校做计算机系的副教授，他博客里分享了很多和科研工作，教学有关的观点；也有很多过来人经验的传授，包括他写的两本书；还有一些他做的采访，采访其他科研工作者，企业界的朋友，独立博主。都还蛮有意思的。</p>
 <h2 id="2-主要内容"><a href="#2-主要内容" class="headerlink" title="2. 主要内容"></a>2. 主要内容</h2><p>他有个介绍自己博客的video<a href="http://www.pgbovine.net/PG-Vlog-14-website-tour.htm" target="_blank" rel="external">A Tour Through pgbovine.net</a>，大致介绍了博客的20年的历史，结构，内容。简单来说结构和风格都非常简洁清楚，像是一本书。博客的内容主要是他作为副教授对外的科研上的展示和自己感兴趣话题的文章和video。</p>
@@ -185,8 +199,8 @@
     <title>科研弯路</title>
     <link href="http://xiaowanlinlp.com/2016/11/26/%E7%A7%91%E7%A0%94%E5%BC%AF%E8%B7%AF/"/>
     <id>http://xiaowanlinlp.com/2016/11/26/科研弯路/</id>
-    <published>2016-11-26T15:04:52.000Z</published>
-    <updated>2016-11-26T15:31:30.777Z</updated>
+    <published>2016-11-27T06:04:52.000Z</published>
+    <updated>2016-11-26T15:31:32.000Z</updated>
     
     <content type="html"><![CDATA[<p>读了两年的研究生，感觉有收获也有走弯路的时候。作为研三老司机，发现很多师弟师妹似乎在走类似的弯路。走了弯路，绕了一圈，该总结总结了，以免以后继续脑抽，或者给后来者一点点警醒。虽然很多道理其实很好懂，高中初中生说起人生大道理都一套一套的。但是要真的在日常中注意用到你懂的道理，方法，还是需要踩点雷，走走弯路的。走了弯路不要紧，没有成果也不要紧，好好总结总结，下次努力做好。</p>
 <h3 id="1-弯路是啥"><a href="#1-弯路是啥" class="headerlink" title="1. 弯路是啥"></a>1. 弯路是啥</h3><p> <strong>前期调研不充分</strong>：老板给个想法，学生直接读了两篇文章，动手就做。我看到的情况是，学生边做边学。着本来是好事，但是当老板自己也在探索的时候，学生边做边学很可能整个工作漏洞百出。最后结果不好，和预期不符，回头找原因的时候，把之前的漏洞填起来，填的很累。填到最后，发现这个想法似乎又不是很扎实的工作了。匆忙跑的各种实验，也和各个相关工作不可比。自己回过头来再读其他文章，发现其实很多坑都是别人发现了，提醒过的，甚至解决过的。<br> <strong>前期调研太充分</strong>：这个也许不算是弯路，但是我观察到的情况是，很多其实还蛮厉害的人，懂很多东西。但是做起来似乎有点缩手缩脚，觉得自己的工作比较水，或者是思路被束缚了。还有个问题就是太花时间了，读了不少文章，是酣畅淋漓啊，但是几天下来发现自己的工作没有进展，产生点挫败感。或者调研得太开心，觉得别人都是牛人，自己水平太渣。<br> <strong>实验陷入细节</strong>：理想状态是根据motivation设计实验啊，结果跑着跑着和预期不符，那得找原因啊，然后设计了一堆实验去找原因。又兜了一圈。还可能是因为解决各种实验细节，结果把做实验的motivation给忘了。<br> <strong>与老板沟通</strong>：实验不理想，代码改不出，怀疑自己的时刻到了，然后就害怕见到导师了。或者不认同导师的做法，但是自己也没有更好的办法，也不想和导师沟通。又或者是怕被导师鄙视，做了缩头乌龟。</p>
@@ -220,8 +234,8 @@
     <title>helloword</title>
     <link href="http://xiaowanlinlp.com/2016/11/09/helloword/"/>
     <id>http://xiaowanlinlp.com/2016/11/09/helloword/</id>
-    <published>2016-11-09T02:42:14.000Z</published>
-    <updated>2016-11-09T02:42:14.039Z</updated>
+    <published>2016-11-09T17:42:14.000Z</published>
+    <updated>2016-11-09T02:42:16.000Z</updated>
     
     <summary type="html">
     
